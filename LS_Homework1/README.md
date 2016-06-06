@@ -2,11 +2,11 @@
 
 Recording Audio from the surroundings
 
-Close to Home
-![Alt text](Pic1 - Close to Home.png)
+Close to Home<br>
+![Alt text](Pic1-Close to Home.png)
 
-Plainsboro Area
-![Alt text](Pic2 - Plainsboro Area.png)
+Plainsboro Area<br>
+![Alt text](Pic2-Plainsboro Area.png)
 
-Location in NJ
-![Alt text](Pic3 - Location in NJ.png)
+Location in NJ<br>
+![Alt text](Pic3-Location in NJ.png)
