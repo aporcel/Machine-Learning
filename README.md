@@ -1,12 +1,13 @@
 # Machine Learning - Homework Folder
 
-Homework1 : Bayessian Classifier
-Homework2 : Dimensional Reduction, Features not used
-Homework3 : Logit Classifier, Text Classifier
-Homework4 : Neural Networks, part I - Neural Classifier
-Homework5 : Neural Networks, part II - Recurrent Neural Network
-Homework6 : Support Vector Machine
-Homework7 : Clustering
-Homework8 : Forest Classifier
-Extra Credits : A little of everything, Logistic Classifier, A Titanic Problem
-Project : Described inside - A bit of everything
+Homework1 : Bayessian Classifier <br>
+Homework2 : Dimensional Reduction, Features not used <br>
+Homework3 : Logit Classifier, Text Classifier <br>
+Homework4 : Neural Networks, part I - Neural Classifier <br>
+Homework5 : Neural Networks, part II - Recurrent Neural Network <br>
+Homework6 : Support Vector Machine <br>
+Homework7 : Clustering <br>
+Homework8 : Forest Classifier <br>
+Extra Credits : A little of everything, Logistic Classifier, A Titanic Problem <br>
+Project : Described inside - A bit of everything <br>
+LS_Homework1 : Sound Analysis
